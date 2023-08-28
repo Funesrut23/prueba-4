@@ -3,3 +3,10 @@ practicando otra vez
 
 
 estoy practicando de nuevo
+
+para trabajar colaborativamente:
+
+1- agregamos a nuestro compañero en las settings de nuestro repositorio
+2- Nuestro compañero debe subir cambios a nuestro repositorio.
+3- Podemos bajarnos los cambios haciendo : git pull origin <nombre del branch>
+
