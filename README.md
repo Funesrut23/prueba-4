@@ -11,6 +11,10 @@ para trabajar colaborativamente:
 3- Podemos bajarnos los cambios haciendo : git pull origin <nombre del branch>
 
 
+4- haciendo una rama por segunda vez
+
+
+editando la rama1
 
 hola rut sabes usar google?
 
