@@ -14,3 +14,4 @@ para trabajar colaborativamente:
 4- haciendo una rama por segunda vez
 
 
+editando la rama1
