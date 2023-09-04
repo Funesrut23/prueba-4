@@ -15,3 +15,7 @@ para trabajar colaborativamente:
 
 
 editando la rama1
+
+hola rut sabes usar google?
+
+modificando el readme desde mi compu
