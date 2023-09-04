@@ -10,3 +10,7 @@ para trabajar colaborativamente:
 2- Nuestro compañero debe subir cambios a nuestro repositorio.
 3- Podemos bajarnos los cambios haciendo : git pull origin <nombre del branch>
 
+
+4- haciendo una rama por segunda vez
+
+
